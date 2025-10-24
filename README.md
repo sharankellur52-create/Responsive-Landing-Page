@@ -37,4 +37,4 @@ The goal was to design and develop a **responsive landing page** featuring an **
 ## ⚙️ How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Responsive-Landing-Page.git
+   git clone https://github.com/sharankellur52/Responsive-Landing-Page.git
