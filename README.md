@@ -30,7 +30,7 @@ The goal was to design and develop a **responsive landing page** featuring an **
 ---
 
 ## 🖼️ Project Preview
-![Landing Page Preview](https://via.placeholder.com/800x400.png?text=Responsive+Landing+Page+Preview)
+![Landing Page Preview](https://sharankellur52-create.github.io/Responsive-Landing-Page/)
 
 ---
 
